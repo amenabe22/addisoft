@@ -29,7 +29,7 @@ class Header extends Component {
                     <nav class="navbar navbar-default">
                         <div class="container-fluid">
                             <div class="navbar-header">
-                                <Title>MERN Stack CRUD Operations</Title>
+                                <Title>Simple Employees Manager</Title>
                             </div>
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="/">Home</a></li>
